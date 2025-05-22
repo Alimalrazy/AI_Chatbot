@@ -1,4 +1,4 @@
-# Gemini AI Chatbot
+[# Gemini AI Chatbot
 **Demo Link:** [Website Demo](https://whale-app-htuk7.ondigitalocean.app/)
 <img src="static/images/demo.gif" alt="Demo GIF" width="700"/>
 
@@ -45,3 +45,4 @@ Feel free to explore and customize the code according to your needs. Contributio
 **Notes**
 * Ensure that you have Python installed on your system.
 * Use a virtual environment for better isolation of dependencies.
+](https://github.com/Alimalrazy/AI_Chatbot)
