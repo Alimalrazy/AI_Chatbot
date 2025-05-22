@@ -11,7 +11,7 @@ Please note that the Gemini API allows 60 queries per minute.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/FareedKhan-dev/Gemini-AI-chatbot.git
+git clone https://github.com/Alimalrazy/AI_Chatbot.git
 ```
 
 ### Step 2: Add API Key
@@ -24,7 +24,7 @@ Replace it with:
 ```python
 my_api_key_gemini = "your_api_key_here"
 ```
-You can obtain your API key from [here](https://makersuite.google.com/app/apikey). Once you have the key, proceed to the next step.
+You can obtain your API key from [here](https://aistudio.google.com/apikey). Once you have the key, proceed to the next step.
 
 
 ### Step 3: Install Dependencies
